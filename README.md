@@ -7,7 +7,7 @@ Image Encryption and Decryption using AES Algorithm:
 
 AES Algorithm:
 
-*AES (Advanced Encryption Standard) is used for its robust encryption capabilities.
+* AES (Advanced Encryption Standard) is used for its robust encryption capabilities.
  The key used for encryption is the same key used for decryption.
 * AES supports variable key lengths, providing options for 128, 192, or 256 bits.
 
